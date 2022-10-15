@@ -17,3 +17,15 @@ using the features in the provided dataset that help Beks create a binary classi
 For the first model, I used 2 hidden layers with "relu" activation function for training because its simple a first approach. Secondly, I used "sigmoid" to activate function.
 80 neurons in the first layer and 30 neurons in the second because a "sigmoid" as a output activate function. This model had an accuracy of 72.45%, not ba, but not the 75% requested, and a lost of 55.94%.
 
+![image](https://user-images.githubusercontent.com/105985796/195972273-f9a8ba2c-cd29-44d5-af16-bdd132ab6c0f.png)
+![image](https://user-images.githubusercontent.com/105985796/195972328-ceff311c-dd12-49c5-b915-fc02aaa132db.png)
+
+![image](https://user-images.githubusercontent.com/105985796/195972626-f2517b2a-1a7c-4858-9210-a0028736ad08.png)
+
+
+Unlike first model, I used 3 hiden layers. 1st and 2nd layers were same as first model, but I added 3rd layer with 10 neurons. As we expected, the accuracy was improved and the loss was down. The rate of aaccuracy 78.95% and the rate of loss 44.02%
+
+In the first model, I dropped "EIN","NAME". Unlike the first modelI dropped "EIN", "SPECIAL_CONSIDERATIONS" for the second model.
+
+## Summary
+Optimizing the model we exceeded the accuracy of 75%! So, this model has an accuracy of 78.95% to determine if an applicant orgaization will be successful!
