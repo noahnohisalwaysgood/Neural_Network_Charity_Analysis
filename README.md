@@ -28,4 +28,4 @@ Unlike first model, I used 3 hiden layers. 1st and 2nd layers were same as first
 In the first model, I dropped "EIN","NAME". Unlike the first modelI dropped "EIN", "SPECIAL_CONSIDERATIONS" for the second model.
 
 ## Summary
-Optimizing the model we exceeded the accuracy of 75%! So, this model has an accuracy of 78.95% to determine if an applicant orgaization will be successful!
+Optimizing the model we exceeded the accuracy of 75%! So, this model has an accuracy of 78.95% to determine if an applicant orgaization will be successful.
